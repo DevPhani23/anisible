@@ -1,6 +1,6 @@
 - name: variables
   hosts: localhost
-  vars: 
+  vars:  # Variable Declaration
     course: "Ansible"
     Trainer: "Siva"
     Duration: "120hrs"
